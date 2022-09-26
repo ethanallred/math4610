@@ -1,0 +1,2 @@
+def bisecant()
+  cool
