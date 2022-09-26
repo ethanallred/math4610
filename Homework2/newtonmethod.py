@@ -1,3 +1,3 @@
-def newtonmethod(x, func, deriv):
-  x = x - func / deriv))
+def newtonmethod(x):
+  x = x - function(x) / derivtive(x)))
   return x
