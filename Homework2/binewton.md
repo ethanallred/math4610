@@ -1,4 +1,4 @@
-Routine Name: binewtonmethod
+Routine Name: binewton.py
 
 Author: Ethan Allred
 
